@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Töötuba IT",
+        "description": "IT Töötuba",
+        "strokeColor": "FF0000",
+        "fillColor": "FF0000",
+        "coordinates": [
+            {"lat": 0.791, "lng": 5.625},
+            {"lat": -1.670, "lng": 23.379},
+            {"lat": -14.520, "lng": 24.258},
+            {"lat": -14.179, "lng": 7.207}
+        ]
+    }
+]
